@@ -1,4 +1,4 @@
-Hi everyone! I'm Realyoung 👨 LinkedInTwitterGithub
+Hi everyone! I'm Realyoung 👨 
 
 I am Fullstack Software Engineer specialized in Web development. My tech stack is Python, Javascript and C/C++. I'm passionate about aryificial intelegent so you can also find some projects in my github.
 
